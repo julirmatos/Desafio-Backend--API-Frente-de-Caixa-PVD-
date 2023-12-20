@@ -521,21 +521,37 @@ Critérios de aceite:
 
 ## 🛠 Tecnologias e Ferramentas Utilizadas
 
-[![Tecnologias e Ferramentas utilizadas:](https://skillicons.dev/icons?i=vscode,github,git,js,postgres,express,)](https://skillicons.dev)
+[![Tecnologias e Ferramentas utilizadas:](https://skillicons.dev/icons?i=vscode,github,git,js,postgres,express,postman)](https://skillicons.dev)
+##💻 Deploy
 
-##💻 Projeto Deploy
- https://mushy-tutu-frog.cyclic.app/ 
+Para fazer o deploy desse projeto execute
 
-## 📚 Bicliotecas
-- Express                - PG                          - Aws-Sdk
-- Nodemon                - Jsonwebtoken                - Bcrypt
-- Joi                    - Nodemailer                  - Multer
-- Cors                   - Knex                        - Dotenv
+```bash
+  npm run dev
+```
+- [Acesse Aqui o Deploy](https://mushy-tutu-frog.cyclic.app/) 
 
-## ✍️ Autoras 
-Juliana Matos <github: https://github.com/julirmatos>
-Raphaela Vidal <github:https://github.com/raphavidall>
-Débora  Carmo <github: https://github.com/DehCarmoo>
-Jéssica Lira<github: https://github.com/jessicalira1001>
-Lara Braz <github: https://github.com/laranbraz>
+
+
+## 📚 Bibliotecas Utilizadas
+- Express
+- PG
+- Aws-Sdk
+- Nodemon
+- Jsonwebtoken
+- Bcrypt
+- Joi                
+- Nodemailer 
+- Multer
+- Cors
+- Knex
+- Dotenv
+
+## ✍️ Autoras
+
+- [Juliana Matos](https://github.com/julirmatos)
+- [Raphaela Vidal](https://github.com/raphavidall)
+- [Debora  Carmo](https://github.com/DehCarmoo)
+- [Jéssica Lira](https://github.com/jessicalira1001)
+- [Lara Braz](https://github.com/laranbraz)
 
