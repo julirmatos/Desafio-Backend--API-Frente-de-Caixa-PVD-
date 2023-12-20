@@ -522,6 +522,8 @@ Critérios de aceite:
 ## 🛠 Tecnologias e Ferramentas Utilizadas
 
 [![Tecnologias e Ferramentas utilizadas:](https://skillicons.dev/icons?i=vscode,github,git,js,postgres,express,postman)](https://skillicons.dev)
+
+
 ##💻 Deploy
 
 Para fazer o deploy desse projeto execute
