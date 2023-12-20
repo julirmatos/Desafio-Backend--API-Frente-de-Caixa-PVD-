@@ -531,7 +531,7 @@ Para fazer o deploy desse projeto execute
 ```bash
   npm run dev
 ```
-- [Acesse Aqui o Deploy](https://mushy-tutu-frog.cyclic.app/) 
+- [Acesse Aqui](https://mushy-tutu-frog.cyclic.app/) 
 
 
 
