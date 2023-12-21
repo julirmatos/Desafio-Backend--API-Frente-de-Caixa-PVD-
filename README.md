@@ -1,4 +1,4 @@
-# Desafio-Backend--API-Frente-de-Caixa-PVD-
+# Desafio-Backend-API-Frente-de-Caixa-PVD-
 Desafio Backend - API Frente de Caixa (PVD)
 
 Neste desafio a proposta era criar uma API para um PDV (Frente de Caixa) , para controle de usuarios, categorias, clientes, produtos e pedidos. Conforme segue.
