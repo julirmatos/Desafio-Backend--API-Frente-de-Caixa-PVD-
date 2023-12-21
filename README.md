@@ -557,3 +557,12 @@ Para fazer o deploy desse projeto execute
 - [Jéssica Lira](https://github.com/jessicalira1001)
 - [Lara Braz](https://github.com/laranbraz)
 
+## Considerações Finais e Agradecimentos
+Agradeço à @cubosacademy por proporcionar essa experiência incrível de grandes aprendizados, pois trata-se de uma empresa que trabalha a favor da diversidade e da inclusão.
+
+Agradecimento especial à nossa TeamLeader @Jess Medeiros, a gestora das nossas Dailys @Rapha Morais, e ao nosso mentor professor @Guido Cerqueira, além do CEO @juninho.
+Entre todos os envolvidos agradeço a @lucasCaldeira (revisões), @gilson (mentorias), a todos da @comunicubos, (@bea,@Rê,@Luka..)
+
+E finalmente, agradeço à @Ifood, pela concessão da bolsa através do programa @Potência Tech.
+
+O meu muito obrigada pela oportunidade!. Até breve !
